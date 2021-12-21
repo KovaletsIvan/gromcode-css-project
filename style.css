@@ -703,7 +703,7 @@
   .order__illustration {
     margin: 0;
     max-width: 269px;
-    margin-right: 121px;
+    margin-left: 121px;
   }
 }
 .order__title {
