@@ -697,6 +697,7 @@
 }
 @media screen and (min-width: 1400px) {
   .order__deteils {
+    margin: 0;
     margin-right: 229px;
   }
 }
@@ -706,7 +707,6 @@
 }
 @media screen and (min-width: 1400px) {
   .order__illustration {
-    margin: 0;
     max-width: 269px;
     margin-left: 224px;
   }

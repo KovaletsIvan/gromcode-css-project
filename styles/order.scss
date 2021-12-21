@@ -16,6 +16,7 @@
     margin: auto;
 
     @include for-large-up {
+      margin: 0;
       margin-right: 229px;
     }
   }
@@ -25,7 +26,6 @@
     margin: auto;
 
     @include for-large-up {
-      margin: 0;
       max-width: 269px;
       margin-left: 224px;
     }
