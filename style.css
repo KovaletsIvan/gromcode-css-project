@@ -695,6 +695,11 @@
   max-width: 555px;
   margin: auto;
 }
+@media screen and (min-width: 1400px) {
+  .order__deteils {
+    margin-right: 229px;
+  }
+}
 .order__illustration {
   max-width: 100%;
   margin: auto;
@@ -703,7 +708,7 @@
   .order__illustration {
     margin: 0;
     max-width: 269px;
-    margin-left: 121px;
+    margin-left: 224px;
   }
 }
 .order__title {
