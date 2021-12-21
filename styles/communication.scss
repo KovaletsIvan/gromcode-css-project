@@ -5,7 +5,7 @@
   margin: 50px 15px;
 
   &__figure {
-    margin: 0;
+    margin: auto;
 
     @include for-large-up {
       display: flex;

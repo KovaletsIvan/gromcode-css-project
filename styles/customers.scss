@@ -23,11 +23,11 @@
     display: flex;
     justify-content: center;
     align-items: center;
+    flex: 1;
     width: 107px;
     height: 94px;
     border-bottom: 1px solid #00000026;
     border-right: 1px solid #00000026;
-    flex: 1;
 
     &:last-child {
       border-right: none;
