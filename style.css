@@ -979,7 +979,7 @@
 .engage__subtitle {
   margin: 0;
   font-weight: 700;
-  padding-top: 50px;
+  padding-top: 49px;
   font-size: 22px;
   line-height: 34px;
 }
@@ -992,7 +992,6 @@
   }
 }
 .engage__title {
-  margin: 0;
   margin-top: 17px;
   font-weight: 700;
   font-size: 40px;
